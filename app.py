@@ -1,5 +1,4 @@
-# Deployment link: [PASTE YOUR RENDER LINK HERE]
-# Password: None
+# Deployment link: https://world-cup-finals.onrender.com
 
 import dash
 from dash import dcc, html, Input, Output
